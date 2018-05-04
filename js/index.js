@@ -27,7 +27,7 @@ document.write(fiboValue.slice(-1));
 //     fiboValue[i]=fiboValue[i-1]+fiboValue[i-2];
 // } while ((isNaN(fiboNubmer)) && (fiboNubmer>i)); 
 
-// document.write(fibo.slice(-1));
+// document.write(fiboValue.slice(-1));
 
 
 
